@@ -22,6 +22,7 @@ body {
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
+
 }
 
 #container h1 {
@@ -36,4 +37,9 @@ body {
 
 #post {
     padding: 1em;
+}
+
+#logo {
+    width: 20px;
+    height: 20px;
 }
